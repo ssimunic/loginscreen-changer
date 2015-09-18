@@ -1,5 +1,7 @@
 # loginscreen-changer
-** NOTE: ** Needs to be updated for latest version of game.
+
+**NOTE:** Needs to be updated for latest version of game.
+
 Login screen changer for League of Legends.
 
 http://quicklol.net/
