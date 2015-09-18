@@ -4,7 +4,8 @@
 
 Login screen changer for League of Legends.
 
-http://quicklol.net/
+=====
+Website: http://quicklol.net/
 
 Demo: https://www.youtube.com/watch?v=i7xAiEaeixk
 
