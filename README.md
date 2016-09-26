@@ -4,6 +4,10 @@
 
 Login screen changer for League of Legends.
 
+## Technologies
+* C#
+* PHP (Server side)
+
 =====
 Website: http://quicklol.net/
 
