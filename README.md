@@ -8,8 +8,12 @@ Login screen changer for League of Legends.
 * C#
 * PHP (Server side)
 
-=====
-Website: http://quicklol.net/
+## Preview
+![](http://i.imgur.com/6Vn7WWI.png)
 
-Demo: https://www.youtube.com/watch?v=i7xAiEaeixk
+## Website
+http://quicklol.net/
+
+## Demo
+https://www.youtube.com/watch?v=i7xAiEaeixk
 
