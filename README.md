@@ -1,8 +1,8 @@
-# loginscreen-changer
+# Login Screen Changer
 
 **NOTE:** Needs to be updated for latest version of game.
 
-Login screen changer for League of Legends.
+Application for League of Legends client which changes intro login screen.
 
 ## Technologies
 * C#
